@@ -115,7 +115,7 @@ KeepAliveTimeout 60
 				<Item Name="Simple Auto-Shifter.vi" Type="VI" URL="../Simple Auto-Shifter.vi"/>
 			</Item>
 			<Item Name="Minibot" Type="Folder">
-				<Item Name="Minibot_release.vi" Type="VI" URL="../Minibot_release.vi"/>
+				<Item Name="Minibot release.vi" Type="VI" URL="../Minibot release.vi"/>
 			</Item>
 			<Item Name="Signaling System" Type="Folder">
 				<Item Name="Lights.vi" Type="VI" URL="../Lights.vi"/>
@@ -618,10 +618,6 @@ KeepAliveTimeout 60
 			</Item>
 			<Item Name="Dead Band.vi" Type="VI" URL="../Dead Band.vi"/>
 			<Item Name="GetHeight.vi" Type="VI" URL="../GetHeight.vi"/>
-			<Item Name="niFpgaNodeNameForErrorReporting.ctl" Type="VI" URL="/&lt;vilib&gt;/rvi/interface/common/niFpgaNodeNameForErrorReporting.ctl"/>
-			<Item Name="niLvFpgaWhatHappensToTopLevelVI.ctl" Type="VI" URL="/&lt;vilib&gt;/rvi/errors/niLvFpgaWhatHappensToTopLevelVI.ctl"/>
-			<Item Name="niLvFpgaFormatErrorSource.vi" Type="VI" URL="/&lt;vilib&gt;/rvi/errors/niLvFpgaFormatErrorSource.vi"/>
-			<Item Name="niLvFpgaAdjustHostInterfaceError.vi" Type="VI" URL="/&lt;vilib&gt;/rvi/errors/niLvFpgaAdjustHostInterfaceError.vi"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build">
 			<Item Name="FRC Robot Boot-up Deployment" Type="{69A947D5-514E-4E75-818E-69657C0547D8}">
