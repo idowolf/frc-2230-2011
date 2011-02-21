@@ -1,5 +1,9 @@
 [My Computer]
+<<<<<<< .mine
+My Computer = "10.22.30.6"
+=======
 My Computer = "10.22.30.9"
+>>>>>>> .r66
 
 [RT CompactRIO Target]
 RT CompactRIO Target = "10.22.30.2"
