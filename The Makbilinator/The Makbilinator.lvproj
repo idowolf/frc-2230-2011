@@ -114,18 +114,17 @@ KeepAliveTimeout 60
 			<Item Name="Can support" Type="Folder">
 				<Item Name="GetCurrentAvg.vi" Type="VI" URL="../GetCurrentAvg.vi"/>
 			</Item>
+			<Item Name="Minibot" Type="Folder">
+				<Item Name="Minibot release.vi" Type="VI" URL="../Minibot release.vi"/>
+			</Item>
 			<Item Name="Shifting System" Type="Folder">
 				<Item Name="Shifter.vi" Type="VI" URL="../Shifter.vi"/>
 				<Item Name="Simple Auto-Shifter.vi" Type="VI" URL="../Simple Auto-Shifter.vi"/>
-			</Item>
-			<Item Name="Minibot" Type="Folder">
-				<Item Name="Minibot release.vi" Type="VI" URL="../Minibot release.vi"/>
 			</Item>
 			<Item Name="Signaling System" Type="Folder">
 				<Item Name="Lights.vi" Type="VI" URL="../Lights.vi"/>
 			</Item>
 			<Item Name="Autonmous" Type="Folder">
-				<Item Name="FIRST Auto.vi" Type="VI" URL="../FIRST Auto.vi"/>
 				<Item Name="Autonumos Test.vi" Type="VI" URL="../Autonumos Test.vi"/>
 			</Item>
 			<Item Name="Begin.vi" Type="VI" URL="../Begin.vi"/>
@@ -396,7 +395,7 @@ KeepAliveTimeout 60
 				<Item Name="WPI_CameraGet Image.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/Camera/WPI_CameraGet Image.vi"/>
 				<Item Name="WPI_CameraDecodeJPEGString.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/Camera/WPI_CameraDecodeJPEGString.vi"/>
 				<Item Name="WPI_UtilitiesFRC LEDs.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/Utilities/WPI_UtilitiesFRC LEDs.vi"/>
-				<Item Name="NI_Real-Time Target Support.lvlib" Type="Library" URL="/D/Program Files/National Instruments/LabVIEW 8.6/Targets/NI/RT/vi.lib/NI_Real-Time Target Support.lvlib"/>
+				<Item Name="NI_Real-Time Target Support.lvlib" Type="Library" URL="../../../../../../../../Program Files (x86)/National Instruments/LabVIEW 8.6/Targets/NI/RT/vi.lib/NI_Real-Time Target Support.lvlib"/>
 				<Item Name="FPGA_UtilitiesRead LED.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/SystemInterfaces/Utilities/FPGA_UtilitiesRead LED.vi"/>
 				<Item Name="FPGA_UtilitiesWrite LED.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/SystemInterfaces/Utilities/FPGA_UtilitiesWrite LED.vi"/>
 				<Item Name="FPGA_UtilitiesLED Source.ctl" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/SystemInterfaces/Utilities/FPGA_UtilitiesLED Source.ctl"/>
@@ -647,8 +646,9 @@ KeepAliveTimeout 60
 				<Item Name="WPI_Enhanced IOSet Enhanced LEDs.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/DriverStation/Enhanced IO/WPI_Enhanced IOSet Enhanced LEDs.vi"/>
 				<Item Name="NI_PID_pid.lvlib" Type="Library" URL="/&lt;vilib&gt;/addons/control/pid/NI_PID_pid.lvlib"/>
 				<Item Name="WPI_CANJaguar_SetPID.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/CAN/Jaguar/Configuration/WPI_CANJaguar_SetPID.vi"/>
-				<Item Name="ni_emb.dll" Type="Document" URL="/D/Program Files/National Instruments/LabVIEW 8.6/Targets/NI/RT/vi.lib/ni_emb.dll"/>
 				<Item Name="WPI_CANJaguar_ConfigMaxOutputVoltage.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/CAN/Jaguar/Configuration/WPI_CANJaguar_ConfigMaxOutputVoltage.vi"/>
+				<Item Name="WPI_CANJaguar_SetVoltageRampRate.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/CAN/Jaguar/Configuration/WPI_CANJaguar_SetVoltageRampRate.vi"/>
+				<Item Name="ni_emb.dll" Type="Document" URL="../../../../../../../../Program Files (x86)/National Instruments/LabVIEW 8.6/Targets/NI/RT/vi.lib/ni_emb.dll"/>
 			</Item>
 			<Item Name="nivissvc.dll" Type="Document" URL="nivissvc.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
@@ -657,6 +657,7 @@ KeepAliveTimeout 60
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
 			<Item Name="Get X Limit.vi" Type="VI" URL="../Get X Limit.vi"/>
+			<Item Name="SimPID.vi" Type="VI" URL="../SimPID.vi"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build">
 			<Item Name="FRC Robot Boot-up Deployment" Type="{69A947D5-514E-4E75-818E-69657C0547D8}">
