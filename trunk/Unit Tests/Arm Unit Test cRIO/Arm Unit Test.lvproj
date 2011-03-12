@@ -184,6 +184,8 @@
 				<Item Name="WPI_Enhanced IOGet Enhanced Digital Input.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/DriverStation/Enhanced IO/WPI_Enhanced IOGet Enhanced Digital Input.vi"/>
 				<Item Name="WPI_Enhanced IOSet Enhanced LEDs.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/DriverStation/Enhanced IO/WPI_Enhanced IOSet Enhanced LEDs.vi"/>
 				<Item Name="WPI_Enhanced IOSet Enhanced Digital Output.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/DriverStation/Enhanced IO/WPI_Enhanced IOSet Enhanced Digital Output.vi"/>
+				<Item Name="WPI_Enhanced IOGet Enhanced Digital Config.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/DriverStation/Enhanced IO/WPI_Enhanced IOGet Enhanced Digital Config.vi"/>
+				<Item Name="WPI_Enhanced IOGet Enhanced Version Info.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/DriverStation/Enhanced IO/WPI_Enhanced IOGet Enhanced Version Info.vi"/>
 			</Item>
 			<Item Name="GetHeight.vi" Type="VI" URL="../../../The Makbilinator/GetHeight.vi"/>
 			<Item Name="IK.vi" Type="VI" URL="../../../The Makbilinator/IK.vi"/>
