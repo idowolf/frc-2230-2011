@@ -598,7 +598,6 @@ KeepAliveTimeout 60
 				<Item Name="WPI_EncoderRefNum Registry Get.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/Encoder/WPI_EncoderRefNum Registry Get.vi"/>
 				<Item Name="WPI_SolenoidRefNum Registry Get.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/Solenoid/WPI_SolenoidRefNum Registry Get.vi"/>
 				<Item Name="WPI_MotorControlRefNum Registry Get.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/MotorControl/WPI_MotorControlRefNum Registry Get.vi"/>
-				<Item Name="WPI_Enhanced IOGet Enhanced Digital Input.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/DriverStation/Enhanced IO/WPI_Enhanced IOGet Enhanced Digital Input.vi"/>
 				<Item Name="WPI_ERRMotorControlCANJaguarDevice.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/MotorControl/WPI_ERRMotorControlCANJaguarDevice.vi"/>
 				<Item Name="WPI_ERRMotorControlCANJaguarFirmware.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/MotorControl/WPI_ERRMotorControlCANJaguarFirmware.vi"/>
 				<Item Name="WPI_RelayOpen.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/Relay/WPI_RelayOpen.vi"/>
@@ -649,6 +648,14 @@ KeepAliveTimeout 60
 				<Item Name="WPI_CANJaguar_ConfigMaxOutputVoltage.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/CAN/Jaguar/Configuration/WPI_CANJaguar_ConfigMaxOutputVoltage.vi"/>
 				<Item Name="WPI_CANJaguar_SetVoltageRampRate.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/CAN/Jaguar/Configuration/WPI_CANJaguar_SetVoltageRampRate.vi"/>
 				<Item Name="ni_emb.dll" Type="Document" URL="../../../../../../../../Program Files (x86)/National Instruments/LabVIEW 8.6/Targets/NI/RT/vi.lib/ni_emb.dll"/>
+				<Item Name="WPI_CAN_Enumerate.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/CAN/WPI_CAN_Enumerate.vi"/>
+				<Item Name="WPI_DriverStationLCDWrite User Message.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/DriverStation/DriverStationLCD/WPI_DriverStationLCDWrite User Message.vi"/>
+				<Item Name="WPI_DriverStationLCDSetLCDLineText.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/DriverStation/DriverStationLCD/WPI_DriverStationLCDSetLCDLineText.vi"/>
+				<Item Name="WPI_DriverStationLCDLCDTextCache.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/DriverStation/DriverStationLCD/WPI_DriverStationLCDLCDTextCache.vi"/>
+				<Item Name="WPI_DriverStationLCDLCDTextCacheOp.ctl" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/DriverStation/DriverStationLCD/WPI_DriverStationLCDLCDTextCacheOp.ctl"/>
+				<Item Name="WPI_DriverStationLCDLCDLine.ctl" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/DriverStation/DriverStationLCD/WPI_DriverStationLCDLCDLine.ctl"/>
+				<Item Name="NetComm_UpdateLCD.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/SystemInterfaces/NetworkCommunication/NetComm_UpdateLCD.vi"/>
+				<Item Name="WPI_Enhanced IOGet Enhanced Digital Input.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/DriverStation/Enhanced IO/WPI_Enhanced IOGet Enhanced Digital Input.vi"/>
 			</Item>
 			<Item Name="nivissvc.dll" Type="Document" URL="nivissvc.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
