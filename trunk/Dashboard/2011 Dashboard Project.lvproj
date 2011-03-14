@@ -78,15 +78,13 @@
 				<Property Name="Bld_excludePolymorphicVIs" Type="Bool">true</Property>
 				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
 				<Property Name="Destination[0].destName" Type="Str">FRC Dashboard.exe</Property>
-				<Property Name="Destination[0].path" Type="Path">/C/Documents and Settings/Administrator/My Documents/LabVIEW Data/builds/FRC Dashboard Project/FRC PC Dashboard/internal.llb</Property>
-				<Property Name="Destination[0].path.type" Type="Str">&lt;none&gt;</Property>
+				<Property Name="Destination[0].path" Type="Path">../Dashboard/build/internal.llb</Property>
 				<Property Name="Destination[0].type" Type="Str">App</Property>
 				<Property Name="Destination[1].destName" Type="Str">Support Directory</Property>
-				<Property Name="Destination[1].path" Type="Path">/C/Documents and Settings/Administrator/My Documents/LabVIEW Data/builds/FRC Dashboard Project/FRC PC Dashboard/data</Property>
-				<Property Name="Destination[1].path.type" Type="Str">&lt;none&gt;</Property>
+				<Property Name="Destination[1].path" Type="Path">../Dashboard/build/data</Property>
 				<Property Name="DestinationCount" Type="Int">2</Property>
 				<Property Name="Exe_iconItemID" Type="Ref">/My Computer/Support/App EXE.ico</Property>
-				<Property Name="Source[0].itemID" Type="Str">{1DC69E0B-5F88-497D-AF44-143900D2A246}</Property>
+				<Property Name="Source[0].itemID" Type="Str">{010D7184-56BA-4FA1-9222-EDDF3B28FFCE}</Property>
 				<Property Name="Source[0].type" Type="Str">Container</Property>
 				<Property Name="Source[1].destinationIndex" Type="Int">0</Property>
 				<Property Name="Source[1].itemID" Type="Ref">/My Computer/Dashboard Main.vi</Property>
