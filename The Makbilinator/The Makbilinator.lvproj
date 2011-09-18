@@ -653,14 +653,14 @@ KeepAliveTimeout 60
 				<Item Name="WPI_CompressorStop.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/Compressor/WPI_CompressorStop.vi"/>
 				<Item Name="WPI_CompressorClose.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/Compressor/WPI_CompressorClose.vi"/>
 				<Item Name="WPI_Enhanced IOSet Enhanced LEDs.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/DriverStation/Enhanced IO/WPI_Enhanced IOSet Enhanced LEDs.vi"/>
+				<Item Name="WPI_CompressorGetEnableState.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/Compressor/WPI_CompressorGetEnableState.vi"/>
+				<Item Name="ni_emb.dll" Type="Document" URL="../../../../../../../../Program Files (x86)/National Instruments/LabVIEW 8.6/Targets/NI/RT/vi.lib/ni_emb.dll"/>
 				<Item Name="WPI_WatchdogSetEnabled.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/Watchdog/WPI_WatchdogSetEnabled.vi"/>
 				<Item Name="FPGA_WatchDogWriteEnabled.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/SystemInterfaces/WatchDog/FPGA_WatchDogWriteEnabled.vi"/>
 				<Item Name="FPGA_WatchDogEnabled.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/SystemInterfaces/WatchDog/FPGA_WatchDogEnabled.vi"/>
 				<Item Name="FPGA_WatchdogDevRef.ctl" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/SystemInterfaces/WatchDog/FPGA_WatchdogDevRef.ctl"/>
 				<Item Name="WPI_WatchdogRefNum Registry Get.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/Watchdog/WPI_WatchdogRefNum Registry Get.vi"/>
 				<Item Name="WPI_WatchdogGetSetRefNum.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/Watchdog/WPI_WatchdogGetSetRefNum.vi"/>
-				<Item Name="WPI_CompressorGetEnableState.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/Compressor/WPI_CompressorGetEnableState.vi"/>
-				<Item Name="ni_emb.dll" Type="Document" URL="../../../../../../../../Program Files (x86)/National Instruments/LabVIEW 8.6/Targets/NI/RT/vi.lib/ni_emb.dll"/>
 			</Item>
 			<Item Name="nivissvc.dll" Type="Document" URL="nivissvc.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
@@ -668,10 +668,6 @@ KeepAliveTimeout 60
 			<Item Name="NiRioSrv.dll" Type="Document" URL="NiRioSrv.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
-			<Item Name="niFpgaNodeNameForErrorReporting.ctl" Type="VI" URL="/&lt;vilib&gt;/rvi/interface/common/niFpgaNodeNameForErrorReporting.ctl"/>
-			<Item Name="niLvFpgaWhatHappensToTopLevelVI.ctl" Type="VI" URL="/&lt;vilib&gt;/rvi/errors/niLvFpgaWhatHappensToTopLevelVI.ctl"/>
-			<Item Name="niLvFpgaFormatErrorSource.vi" Type="VI" URL="/&lt;vilib&gt;/rvi/errors/niLvFpgaFormatErrorSource.vi"/>
-			<Item Name="niLvFpgaAdjustHostInterfaceError.vi" Type="VI" URL="/&lt;vilib&gt;/rvi/errors/niLvFpgaAdjustHostInterfaceError.vi"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build">
 			<Item Name="FRC Robot Boot-up Deployment" Type="{69A947D5-514E-4E75-818E-69657C0547D8}">
